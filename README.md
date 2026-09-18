@@ -1,4 +1,4 @@
-# Wazuh SIEM Home Lab
+# Wazuh SIEM Lab
 
 ## Project Overview
 
